@@ -1,4 +1,4 @@
-<h1>LeetCode <a href="https://www.naukri.com/code360/problems/binary-search_972?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_11&leftPanelTabValue=PROBLEM">Binary Search</a></h1>
+<h1>Code Studio <a href="https://www.naukri.com/code360/problems/binary-search_972?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_11&leftPanelTabValue=PROBLEM">Binary Search</a></h1>
 <hr>
 
 <h3>You are given an integer array 'A' of size 'N', sorted in non-decreasing order. You are also given an integer 'target'.
@@ -20,7 +20,8 @@ You must write an algorithm whose time complexity is O(LogN)</p>
     <h3>Sample Input </h3>
     </div>
   
-   ![Screenshot (484)](https://github.com/Bittu-kumar2003/CodeStudio/assets/109884531/be93245a-e584-4b51-8685-dfa6db6625dc)
+![Screenshot (583)](https://github.com/Bittu-kumar2003/CodeStudio/assets/109884531/281ca2d7-6d5e-4c4a-9753-412f69511e76)
+
      
  
 
